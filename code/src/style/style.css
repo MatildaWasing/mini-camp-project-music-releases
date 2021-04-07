@@ -132,15 +132,6 @@ code {
   color: #a0a0a0;
 }
 
-@media screen and (max-width: 1230px) {
-  .header {
-    margin: 0 15px;
-  }
-  .list {
-    margin: 0 15px;
-  }
-}
-
 @media screen and (max-width: 1024px) {
   .img-wrapper {
     grid-template-columns: repeat(2, 1fr);
